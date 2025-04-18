@@ -1,6 +1,6 @@
 # Immich Photostream
 
-There's more on this in [my blogpost](). But A little python script basically syncs the latest photos from my Immich server to a folder on my Mac, almost recreating a Photostream like Apple used to offer. 
+There's more on this in [my blogpost](https://jplattel.nl/post/2025-04-18-recreating-a-photostream-with-immich-and-python/). But A little python script basically syncs the latest photos from my Immich server to a folder on my Mac, almost recreating a Photostream like Apple used to offer. 
 
 ## How to run
 
